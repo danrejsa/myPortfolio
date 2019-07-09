@@ -9,18 +9,32 @@ width: 50px;
 text-align: center;
 }
 .technical-skills{
-    margin-top:1.5rem
+    margin-top:1.5rem;
+    margin-left: 3rem;
+    min-width: 95%;
 }
 .tools{
     margin-top:3rem;
+    
+    min-width: 95%;
 }
 .experience-header{
-    margin-top:3rem;color:#333
+    margin-top:3rem;
+    margin-left: 3rem;
+    color:#333;
+    min-width: 95%;
+}
+.experience-title{
+    margin-left: 3rem;
+    min-width: 95%;
 }
 .experience-text{
-    text-align: justify
+    text-align: justify;
+    margin-left: 3rem;
+    min-width: 95%;
 }
 .experience-span{
-    float:right; font-size:20px;
+    float:right; 
+    font-size:20px;
 }
 

@@ -2,7 +2,7 @@
     color:#333;
 }
 .container-main{
-    
+    overflow:hidden;
     font-weight: 300;
 
 }
@@ -11,6 +11,8 @@
     border: 0.5px solid #333;
     display:flex;
     margin-top: 4.5rem;
+    min-width:95%;
+    margin-left:3rem;
 }
 .fa {
     margin-left:auto;

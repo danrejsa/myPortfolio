@@ -4,18 +4,20 @@ body {
 	background:#fff;
 	font-family: 'Montserrat',sans-serif;
 	height:100vh;
+	overflow-x:hidden;
 }
 
 #container {
 	display:grid;
 	grid-template-columns:200px auto;
 	height: 100%;
+
 }
 
 #content {
 	padding: 13px 15px;
-	width:90%;
-	margin-left:6%;
+	width:88%;
+	margin-left:4.5%;
 }
 
 ul {
